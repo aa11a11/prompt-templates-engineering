@@ -5,7 +5,6 @@
 用于快速查找和浏览提示词模板库中的模板
 """
 
-import os
 import sys
 from pathlib import Path
 
